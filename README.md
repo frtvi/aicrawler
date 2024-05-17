@@ -1,4 +1,4 @@
-# aicrawler
+# scrawler
 AI-Powered web scrapping, blacklisting...<br>
 
 1. Os dados de exemplo contendo URLs e suas classificações são definidos na lista training_data.<br>
