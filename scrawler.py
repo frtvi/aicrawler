@@ -1,3 +1,4 @@
+# Code by V.Barbosa
 import scrapy
 import requests
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -9,7 +10,8 @@ import joblib
 training_data = [
     {'url': 'https://example.com', 'classification': 'seguro'},
     {'url': 'https://phishing-site.com', 'classification': 'malicioso'},
-    # Adicione mais URLs e suas classificações conforme necessário
+    # PELO AMOR DE DEUS, ISSO AQUI É PRA IMPLEMENTAR UM .txt, NÃO DEIXAR NO CÓDIGO. 
+    # ESTEJAM AVISADOS QUE ESSE CODIGO É APENAS ESTÉTICO.
 ]
 
 # Extrair conteúdo das páginas e classificações
