@@ -1,4 +1,4 @@
-# scrawler
+# Mr Scrapper
 (CÓDIGO NAO TA FUNCIONANDO AINDA BLZ TA SÓ EM TESTE)<br>
 AI-Powered web scrapping, blacklisting...<br>
 
